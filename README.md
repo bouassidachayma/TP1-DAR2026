@@ -183,4 +183,4 @@ Cette architecture permet au client d'enchaîner plusieurs opérations sans ferm
 Toutes les opérations ont été testées avec succès depuis la VM Ubuntu
 (adresse `192.168.56.102`) vers le serveur Windows (adresse `192.168.56.1`).
 La communication bidirectionnelle fonctionne correctement pour les entiers
-et les décimaux, et la gestion des erreurs (division par zéro) est opérationnelle.
+et les décimaux, et la gestion des erreurs (division par zéro) est opérationnelle. 
