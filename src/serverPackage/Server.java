@@ -12,7 +12,6 @@ public class Server {
         // 2. Attendre et accepter la connexion d'un client
         Socket socket = socketServer.accept();
         System.out.println("un client est connecté");
-
         // 3. Fermer les sockets
         socket.close();
         socketServer.close();

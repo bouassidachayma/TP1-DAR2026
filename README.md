@@ -1,4 +1,4 @@
-# Activité 1-1 : Première connexion Client/Serveur
+# Activité 1-1: Première connexion Client/Serveur
 
 ## Objectif
 Établir une connexion TCP entre un client et un serveur en Java.
