@@ -64,6 +64,7 @@ Le client initie la connexion. Une fois la connexion TCP établie, les deux prog
 
 #### Test avec un entier négatif (x = -3)
 *Note : L'utilisation de `DataInputStream` et `DataOutputStream` permet de gérer correctement les entiers négatifs (4 octets, signe compris).*
+
 ![Client -3](screenshots/a12_client2_m3.png)
 ![Serveur -3](screenshots/a12_server2_m3.png)
 
